@@ -15,6 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=CrazyHuman00)](https://github.com/CrazyHuman00/github-profile-trophy)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyHuman00
-)](https://github.com/CrazyHuman00github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=CrazyHuman00&heme=onedark)](https://github.com/CrazyHuman00/github-profile-trophy)
+
