@@ -4,11 +4,6 @@
 **CrazyHuman00/CrazyHuman00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra
-)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CrazyHuman00)](https://github.com/CrazyHuman00/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CrazyHuman00
+)](https://github.com/CrazyHuman00github-readme-stats)
