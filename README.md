@@ -1,5 +1,5 @@
 ### Hey Guys!
-
+#### I like sushi, thank you. I want to cook sushi, thank you.
 
 <!--
 **CrazyHuman00/CrazyHuman00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
