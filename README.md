@@ -1,5 +1,5 @@
 ### Hey!
-#### I like sushi🍣 and Curry rice🍛
+#### I like sushi🍣 and curry rice🍛
 
 <!--
 **CrazyHuman00/CrazyHuman00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
