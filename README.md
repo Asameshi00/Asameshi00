@@ -1,5 +1,5 @@
-### Hey Guys!
-#### I like sushi.🍣
+### Hey!
+#### I like sushi🍣 and Curry rice🍛
 
 <!--
 **CrazyHuman00/CrazyHuman00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=CrazyHuman00&column=3&margin-w=15&margin-h=15)](https://github.com/CrazyHuman00/github-profile-trophy)
 
+###AtCoder
+###Qiita
