@@ -2,11 +2,9 @@
 #### I like sushi🍣 and curry rice🍛
 
 <p>&nbsp;
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=crazyhuman00&show_icons=true&locale=en" alt="crazyhuman00" />
-</p>
+  <img align="" src="https://github-readme-stats.vercel.app/api?username=crazyhuman00&show_icons=true&locale=en" alt="crazyhuman00" />
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=crazyhuman00&show_icons=true&locale=en&layout=compact" alt="crazyhuman00" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazyhuman00&show_icons=true&locale=en&layout=compact" alt="crazyhuman00" />
 </p>
 
 <h3 >Trophy</h3>
