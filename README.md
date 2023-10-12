@@ -1,6 +1,7 @@
 ### Hey Guys!
 #### I like sushi🍣 and curry rice🍛
 
+<h3>Status</h3>
 <p>&nbsp;
   <img align="" src="https://github-readme-stats.vercel.app/api?username=crazyhuman00&show_icons=true&locale=en" alt="crazyhuman00" />
 
