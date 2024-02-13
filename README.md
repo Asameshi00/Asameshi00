@@ -16,7 +16,7 @@
 <p>&nbsp;
   <img align="" src="https://github-readme-stats.vercel.app/api?username=crazyhuman00&show_icons=true&locale=en" alt="crazyhuman00" />
 
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=crazyhuman00&show_icons=true&locale=en&layout=compact" alt="crazyhuman00" />
+  ![](https://github-readme-stats.vercel.app/api/top-langs?username=CrazyHuman00)
 </p>
 
 <h3 >Trophy</h3>
