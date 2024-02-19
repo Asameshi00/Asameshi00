@@ -29,8 +29,8 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart&theme=light)](https://skillicons.dev)
 
 ### Game
-[![My Skills](https://skillicons.dev/icons?i=unity,c,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,c,&theme=light)](https://skillicons.dev)
 
 ### Else
-[![My Skills](https://skillicons.dev/icons?i=cs,arduino,blender,figma,opencv,raspberrypi,matlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,blender,figma,opencv,raspberrypi,matlab&theme=light)](https://skillicons.dev)
 
