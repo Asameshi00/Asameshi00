@@ -32,5 +32,5 @@
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,c,&theme=light)](https://skillicons.dev)
 
 ### Else
-[![My Skills](https://skillicons.dev/icons?i=arduino,blender,figma,opencv,raspberrypi,matlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,arduino,blender,figma,opencv,raspberrypi,matlab&theme=light)](https://skillicons.dev)
 
