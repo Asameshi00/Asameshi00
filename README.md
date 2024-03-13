@@ -25,10 +25,10 @@
 [![My Skills](https://skillicons.dev/icons?i=py,java,flask,fastapi&theme=light)](https://skillicons.dev)
 
 ### Mobile
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=flutter&theme=light)](https://skillicons.dev)
 
 ### Game
 [![My Skills](https://skillicons.dev/icons?i=unity,cs,c,&theme=light)](https://skillicons.dev)
 
 ### Else
-[![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,arduino,blender,figma,opencv,raspberrypi,matlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,githubactions,arduino,blender,figma,opencv,raspberrypi,matlab&theme=light)](https://skillicons.dev)
