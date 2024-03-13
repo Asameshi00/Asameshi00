@@ -10,11 +10,8 @@
  
 ## Status
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrazyHuman00&theme=radical)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CrazyHuman00&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrazyHuman00&theme=radical)
-![](https://github-readme-stats.vercel.app/api?username=CrazyHuman00&show_icons=true&theme=radical)
 
 
 ## Trophy
