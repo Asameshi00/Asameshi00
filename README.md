@@ -32,8 +32,3 @@
 
 ### Else
 [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions,arduino,blender,figma,opencv,raspberrypi,matlab&theme=light)](https://skillicons.dev)
-
-## SNS
-[![My Skills](https://skillicons.dev/icons?i=twitter&theme=light)](https://twitter.com/asakurashi01)
-[![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/heliumcon/)
-
