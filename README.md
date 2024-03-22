@@ -18,17 +18,14 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crazyhuman00" alt="crazyhuman00" /></a> </p>
 
 ## Tools
-### Front
-[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=light)](https://skillicons.dev)
+### lang
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,cs,c,dart,swift&theme=light)](https://skillicons.dev)
 
-### Back
-[![My Skills](https://skillicons.dev/icons?i=py,java,flask,fastapi&theme=light)](https://skillicons.dev)
+### Framework
+[![My Skills](https://skillicons.dev/icons?i=flask,fastapi&theme=light)](https://skillicons.dev)
 
-### Mobile
-[![My Skills](https://skillicons.dev/icons?i=flutter&theme=light)](https://skillicons.dev)
-
-### Game
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,c,&theme=light)](https://skillicons.dev)
+### tool
+[![My Skills](https://skillicons.dev/icons?i=github,git,githubactions,unity,flutter,blender&theme=light)](https://skillicons.dev)
 
 ### Else
-[![My Skills](https://skillicons.dev/icons?i=github,githubactions,arduino,blender,figma,opencv,raspberrypi,matlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,figma,opencv,raspberrypi,matlab&theme=light)](https://skillicons.dev)
