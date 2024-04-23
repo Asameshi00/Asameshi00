@@ -19,7 +19,7 @@
 
 ## Tools
 ### lang
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,java,cs,c,dart,swift&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,py,java,cs,c,dart,swift&theme=light)](https://skillicons.dev)
 
 ### Framework
 [![My Skills](https://skillicons.dev/icons?i=flask,fastapi&theme=light)](https://skillicons.dev)
