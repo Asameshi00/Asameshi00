@@ -12,6 +12,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CrazyHuman00&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrazyHuman00&theme=radical)
+<div>
+  <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=CrazyHuman00&count_private=true&show_icons=true&theme=radical" />
+  <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyHuman00&layout=compact&theme=radical" />
+</div>
 
 
 ## Trophy
