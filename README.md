@@ -21,7 +21,7 @@
 ## Trophy
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=crazyhuman00" alt="crazyhuman00" /></a> </p>
 
-## Tools
+## Stack
 ### lang
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,py,java,cs,c,dart,swift&theme=light)](https://skillicons.dev)
 
