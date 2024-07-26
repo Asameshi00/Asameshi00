@@ -1,15 +1,10 @@
 ### Hello, I like sushi🍣 and curry rice🍛
 
-## Status
+## Activity
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrazyHuman00&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CrazyHuman00&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrazyHuman00&theme=radical)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CrazyHuman00&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrazyHuman00&theme=radical)
-<div>
-  <img align="center" height="175" src="https://github-readme-stats.vercel.app/api?username=CrazyHuman00&count_private=true&show_icons=true&theme=radical" />
-  <img align="center" height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyHuman00&layout=compact&theme=radical" />
-</div>
-
-## Stack
+## Stacks
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript&theme=light)](https://skillicons.dev)
 
