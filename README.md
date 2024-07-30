@@ -4,6 +4,12 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrazyHuman00&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CrazyHuman00&theme=radical)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrazyHuman00&theme=radical)
 
+### Created
+| タイトル | URL |
+| ---- | ---- |
+| Movie gacha | [Movie gacha](https://movie-gacha.netlify.app/) |
+
+
 ## Stacks
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript&theme=light)](https://skillicons.dev)
@@ -19,6 +25,3 @@
 
 ### Other
 [![My Skills](https://skillicons.dev/icons?i=arduino,figma,opencv,raspberrypi,matlab,firebase&theme=light)](https://skillicons.dev)
-
-### Website
-[Movie gacha](https://movie-gacha.netlify.app/)
