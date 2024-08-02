@@ -24,4 +24,4 @@
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,unity,unreal&theme=light)](https://skillicons.dev)
 
 ### Other
-[![My Skills](https://skillicons.dev/icons?i=arduino,figma,opencv,raspberrypi,matlab,firebase&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,figma,opencv,raspberrypi,matlab,firebase,cloudflare&theme=light)](https://skillicons.dev)
