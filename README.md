@@ -8,7 +8,7 @@
 | タイトル | URL |
 | ---- | ---- |
 | Movie gacha（web） | [Movie gacha](https://movie-gacha.netlify.app/) |
-| 情報理工学実験webサイト (web) | [テーマ](https://www.cc.kyoto-su.ac.jp/~g2253037/index.html) |
+| 情報理工学実験webサイト (web) | [テーマ6](https://www.cc.kyoto-su.ac.jp/~g2253037/index.html) |
 | 天下りビーバー、地球へ帰る。（game）|[Unityroom](https://unityroom.com/games/asameshi-space-beaver) |
 
 
