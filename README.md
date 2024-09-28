@@ -1,8 +1,7 @@
 ### Hello, I like sushi🍣 and curry rice🍛
 
 ## Activity
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrazyHuman00&theme=radical)![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CrazyHuman00&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CrazyHuman00&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyHuman00&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Created
 | タイトル | URL |
