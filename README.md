@@ -1,7 +1,30 @@
 ### Hello, I like sushi🍣 and curry rice🍛
 
 ## Activity
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyHuman00&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyHuman00&layout=donut-vertical&langs_count=10&theme=dark">
+  </a>
+  
+  <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
+  
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=CrazyHuman00&theme=discord&row=2&column=4">
+  </a>
+  
+  <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
+</div>
+
 
 ### Created
 | タイトル | URL |
@@ -10,20 +33,7 @@
 | 情報理工学実験webサイト (web) | [テーマ6](https://www.cc.kyoto-su.ac.jp/~g2253037/index.html) |
 | 天下りビーバー、地球へ帰る。（game）|[Unityroom](https://unityroom.com/games/asameshi-space-beaver) |
 
-
-
 ## Stacks
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,py,flask,fastapi,java,swift,flutter,dart,c,cs,cpp,unity,arduino,figma,opencv,raspberrypi,matlab,firebase,cloudflare&theme=dark)](https://skillicons.dev)
 
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=py,flask,fastapi,java,typescript&theme=light)](https://skillicons.dev)
-
-### Mobile
-[![My Skills](https://skillicons.dev/icons?i=swift,flutter,dart&theme=light)](https://skillicons.dev)
-
-### Game
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,unity&theme=light)](https://skillicons.dev)
-
-### Other
-[![My Skills](https://skillicons.dev/icons?i=arduino,figma,opencv,raspberrypi,matlab,firebase,cloudflare&theme=light)](https://skillicons.dev)
+<br><br>
