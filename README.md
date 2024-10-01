@@ -1,9 +1,6 @@
 ### Hello, I like sushi🍣 and curry rice🍛
 
 ## Activity
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
-</div>
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
