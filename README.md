@@ -5,9 +5,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
   
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrazyHuman00&layout=donut-vertical&langs_count=10&theme=dark">
-  </a>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CrazyHuman00&langs_count=10&theme=nord_dark">
   
   <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
 </div>
