@@ -27,6 +27,6 @@
 </div>
 
 ## Stacks
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,py,flask,fastapi,java,swift,flutter,dart,c,cs,cpp,unity,arduino,figma,opencv,raspberrypi,matlab,firebase,cloudflare&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,typescript,go,py,flask,fastapi,java,swift,flutter,dart,c,cs,cpp,unity,arduino,figma,opencv,raspberrypi,matlab,firebase,cloudflare&theme=dark)](https://skillicons.dev)
 
 <br><br>
