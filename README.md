@@ -14,7 +14,7 @@
 
 ## Portfolio
 <div align="center">
-  <a href="https://asakurashi.notion.site/bb6e1ec8e967413c9eea629d65eba9e1">こちらになります</a>
+  <a href="https://asakurashi.notion.site/bb6e1ec8e967413c9eea629d65eba9e1">This page</a>
 </div>
 
 ## Stacks
