@@ -42,6 +42,6 @@
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart&theme=dark)](https://skillicons.dev)
 
 ### Else
-[![My Skills](https://skillicons.dev/icons?i=arduino,figma,opencv,raspberrypi,matlab,firebase,cloudflare,postman,postgre&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,figma,opencv,raspberrypi,matlab,supabase,postman,postgre&theme=dark)](https://skillicons.dev)
 
 <br><br>
