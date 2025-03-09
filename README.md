@@ -18,14 +18,6 @@
   <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
 </div>
 
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=CrazyHuman00&theme=dark&row=2&column=4">
-  </a>
-  <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
-</div>
-
 ## Portfolio
 <div align="center">
   <a href="https://asakurashi.notion.site/bb6e1ec8e967413c9eea629d65eba9e1">This page</a>
