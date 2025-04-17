@@ -18,10 +18,17 @@
   <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
 </div>
 
-## Portfolio
-<div align="center">
-  <a href="https://asakurashi.notion.site/bb6e1ec8e967413c9eea629d65eba9e1">This page</a>
-</div>
+## Works
+| 作品名 | 概要 | 使用技術 |
+| ----- | ----- | ----- |
+| [Cooking-Web](https://github.com/Asameshi00/Cooking-Web) | 個人開発<br>余りものから検索するレシピ検索サイト | TypeScript(React) |
+| [Random-Movie](https://movie-gacha.netlify.app/) | 個人開発<br>今日観る映画をガチャ感覚で決めてくれるサイト | TypeScript(React) |
+
+## Blog
+- [ポートフォリオ](https://asakurashi.notion.site/bb6e1ec8e967413c9eea629d65eba9e1)
+- [note](https://note.com/kind_crocus877)
+- [zenn](https://zenn.dev/asakurashi)
+- [Qiita](https://qiita.com/asakurashi01)
 
 ## lang&tool
 <!-- 一段目 -->
