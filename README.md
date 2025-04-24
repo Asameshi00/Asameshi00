@@ -23,6 +23,13 @@
 | ----- | ----- | ----- |
 | [Cooking-Web](https://github.com/Asameshi00/Cooking-Web) | 個人開発<br>余りものから検索するレシピ検索サイト | TypeScript(React) |
 | [Random-Movie](https://movie-gacha.netlify.app/) | 個人開発<br>今日観る映画をガチャ感覚で決めてくれるサイト | TypeScript(React) |
+| [グルメお嬢様](https://github.com/Asameshi00/linebot-gourmet-ojosama) | 個人開発<br>お嬢様口調で周囲の飲食店を検索してくれるLINEBot | Python(Flask) |
+| [ピザゲーム](https://github.com/Asameshi00/pizza-game) | 個人開発<br>ピザのゲーム | Unity |
+| [天下りビーバー、地球へ帰る](https://github.com/Asameshi00/space-beaver) | チーム開発<br>ビーバーが餌を食べつつ地球に帰るゲーム | Unity |
+| [Jam Checker](https://github.com/Asameshi00/Crowded-Observation) | チーム開発<br>学食の混雑状況を数値化してくれるディスプレイシステム | Python・HTML |
+| [キョウガチャ](https://github.com/Asameshi00/amanojaku) | ハッカソン<br>ガチャを回すと京都で今日遊ぶ場所の候補地を決めてくれるモバイルアプリ | Flutter |
+| [重成将棋](https://github.com/Asameshi00/Stacking-Shogi) | ハッカソン<br>自身の駒を重ねて戦う将棋ゲーム | Unity |
+
 
 ## Blog
 - [ポートフォリオ](https://asakurashi.notion.site/bb6e1ec8e967413c9eea629d65eba9e1)
