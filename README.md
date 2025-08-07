@@ -1,4 +1,4 @@
-### Hello, I like sushi🍣 and curry rice🍛
+### Hello, I like sushi🍣, curry rice🍛 and hamburgers🍔
 
 ## Activity
 
@@ -21,7 +21,7 @@
 ## Works
 | 作品名 | 概要 | 使用技術 |
 | ----- | ----- | ----- |
-| [Cooking-Web](https://github.com/Asameshi00/Cooking-Web) | 個人開発<br>余りものから検索するレシピ検索サイト | TypeScript(React) |
+| [Cooking-Web](https://github.com/Asameshi00/Cooking-Web) | 個人開発（現在開発中）<br>余りものから検索するレシピ検索サイト | TypeScript(React) |
 | [Random-Movie](https://movie-gacha.netlify.app/) | 個人開発<br>今日観る映画をガチャ感覚で決めてくれるサイト | TypeScript(React) |
 | [グルメお嬢様](https://github.com/Asameshi00/linebot-gourmet-ojosama) | 個人開発<br>お嬢様口調で周囲の飲食店を検索してくれるLINEBot | Python(Flask) |
 | [天下りビーバー、地球へ帰る](https://github.com/Asameshi00/space-beaver) | チーム開発<br>ビーバーが餌を食べつつ地球に帰るゲーム | Unity |
@@ -29,14 +29,13 @@
 | [キョウガチャ](https://github.com/Asameshi00/amanojaku) | ハッカソン<br>ガチャを回すと京都で今日遊ぶ場所の候補地を決めてくれるモバイルアプリ | Flutter |
 | [重成将棋](https://github.com/Asameshi00/Stacking-Shogi) | ハッカソン<br>自身の駒を重ねて戦う将棋ゲーム | Unity |
 
-
 ## Blog
-- [ポートフォリオ](https://asakurashi.notion.site/bb6e1ec8e967413c9eea629d65eba9e1)
+- [Portfolio](https://asakurashi.notion.site/bb6e1ec8e967413c9eea629d65eba9e1)
 - [note](https://note.com/kind_crocus877)
 - [zenn](https://zenn.dev/asakurashi)
 - [Qiita](https://qiita.com/asakurashi01)
 
-## lang&tool
+## Lang&Tools
 <!-- 一段目 -->
 <div align="center">
   <a href="https://developer.mozilla.org/ja/docs/Web/HTML/Element">
@@ -107,6 +106,9 @@
 
 <!-- 三段目 -->
 <div align="center">
+  <a href="https://cloud.google.com/free?hl=ja">
+    <img src="https://skillicons.dev/icons?i=gcp">
+  </a>
   <a href="https://www.mysql.com/jp/">
     <img src="https://skillicons.dev/icons?i=mysql">
   </a>
