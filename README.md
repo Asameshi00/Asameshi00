@@ -25,6 +25,7 @@
 | [Random-Movie](https://movie-gacha.netlify.app/) | 個人開発<br>今日観る映画をガチャ感覚で決めてくれるサイト | TypeScript(React) |
 | [グルメお嬢様](https://github.com/Asameshi00/linebot-gourmet-ojosama) | 個人開発<br>お嬢様口調で周囲の飲食店を検索してくれるLINEBot | Python(Flask) |
 | [天下りビーバー、地球へ帰る](https://github.com/Asameshi00/space-beaver) | チーム開発<br>ビーバーが餌を食べつつ地球に帰るゲーム | Unity |
+| [ナツイロミッドナイト](https://unityroom.com/games/natsuiro_midnight) | チーム開発<br>昼はかき氷、夜はカジュアルなバーテンダーとなりカスタマーの関係性や過去から一品を見つけ出すアドベンチャーゲーム | Unity |
 | [Jam Checker](https://github.com/Asameshi00/Crowded-Observation) | チーム開発<br>学食の混雑状況を数値化してくれるディスプレイシステム | Python・HTML |
 | [キョウガチャ](https://github.com/Asameshi00/amanojaku) | ハッカソン<br>ガチャを回すと京都で今日遊ぶ場所の候補地を決めてくれるモバイルアプリ | Flutter |
 | [重成将棋](https://github.com/Asameshi00/Stacking-Shogi) | ハッカソン<br>自身の駒を重ねて戦う将棋ゲーム | Unity |
