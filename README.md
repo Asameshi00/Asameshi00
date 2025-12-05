@@ -1,23 +1,5 @@
 ### Hello, I like sushi🍣, curry rice🍛 and hamburgers🍔
 
-## Activity
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asameshi00&layout=compact&theme=dark">
-  </a>
-  <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
-</div>
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
-  <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=Asameshi00&theme=dark">
-  </a>
-  <img src="https://github.com/user-attachments/assets/d15edaee-eacc-43a1-a0d4-92010cf0e2e4" width=10%, heigt=10%>
-</div>
-
 ## Works
 | 作品名 | 概要 | 使用技術 |
 | ----- | ----- | ----- |
