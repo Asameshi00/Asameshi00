@@ -98,7 +98,7 @@
   <a href="https://www.docker.com/ja-jp/">
     <img src="https://skillicons.dev/icons?i=docker">
   </a>
-  <a href="https://github.com/CrazyHuman00">
+  <a href="https://github.com/Asameshi00">
     <img src="https://skillicons.dev/icons?i=github">
   </a>
 </div>
