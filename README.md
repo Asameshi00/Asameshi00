@@ -3,7 +3,7 @@
 ## Works
 | 作品名 | 概要 | 使用技術 |
 | ----- | ----- | ----- |
-| [Cooklone]((https://github.com/Asameshi00/alone-cooking-web)) | 個人開発（現在開発中）<br>一人暮らし向けのレシピ検索サイト | TypeScript(React)・FastAPI |
+| [Cooklone](https://github.com/Asameshi00/alone-cooking-web) | 個人開発（現在開発中）<br>一人暮らし向けのレシピ検索サイト | TypeScript(React)・FastAPI |
 | [Random-Movie](https://movie-gacha.netlify.app/) | 個人開発<br>今日観る映画をガチャ感覚で決めてくれるサイト | TypeScript(React) |
 | [グルメお嬢様](https://github.com/Asameshi00/linebot-gourmet-ojosama) | 個人開発<br>お嬢様口調で周囲の飲食店を検索してくれるLINEBot | Python(Flask) |
 | [天下りビーバー、地球へ帰る](https://github.com/Asameshi00/space-beaver) | チーム開発<br>ビーバーが餌を食べつつ地球に帰るゲーム | Unity |
