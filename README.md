@@ -18,7 +18,7 @@
 - [zenn](https://zenn.dev/asakurashi)
 - [Qiita](https://qiita.com/asakurashi01)
 
-## Lang&Tools
+## Lang & Tools & Infra
 <!-- 一段目 -->
 <div align="center">
   <a href="https://developer.mozilla.org/ja/docs/Web/HTML/Element">
@@ -95,8 +95,14 @@
   <a href="https://www.mysql.com/jp/">
     <img src="https://skillicons.dev/icons?i=mysql">
   </a>
-  <a href="https://www.docker.com/ja-jp/">
-    <img src="https://skillicons.dev/icons?i=docker">
+  <a href="https://www.ruby-lang.org/ja">
+    <img src="https://skillicons.dev/icons?i=ruby">
+  </a>
+  <a href="https://rubyonrails.org">
+    <img src="https://skillicons.dev/icons?i=rails">
+  </a>
+  <a href="https://aws.amazon.com/jp">
+    <img src="https://skillicons.dev/icons?i=aws">
   </a>
   <a href="https://github.com/Asameshi00">
     <img src="https://skillicons.dev/icons?i=github">
